@@ -1,0 +1,7 @@
+name: BattleRoyal
+authors: [Tyan]
+description: The awesome BattleRoyal game mode in Minecraft
+
+version: 1.0
+
+main: net.tyan.battleroyal.BattleRoyal
